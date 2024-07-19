@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['unpackdata_0',['unpackData',['../de/dc7/_snapshot_lib_8cpp.html#ac4b8e6ffe5970de5017b4ded5e3d8887',1,'unpackData():&#160;SnapshotLib.cpp'],['../dc/dd5/_snapshot_lib_8h.html#a3d85ef7b369591f5fdae9867d294faf9',1,'unpackData():&#160;SnapshotLib.cpp']]]
+  ['setloadfilename_0',['setLoadFileName',['../_snapshot_lib_8cpp.html#a9eebee7fa97c2b930d4af191fe4a630f',1,'SnapshotLib.cpp']]],
+  ['setsavepath_1',['setSavePath',['../_snapshot_lib_8cpp.html#a18f1ad8e6df3c8eaa6775eac9d997cf6',1,'SnapshotLib.cpp']]]
 ];

@@ -3,7 +3,7 @@ var indexSectionsWithContent =
   0: "_cdfghloprsu",
   1: "d",
   2: "ls",
-  3: "cdfghprsu",
+  3: "_cdfghprsu",
   4: "_s",
   5: "s",
   6: "cdfor",
